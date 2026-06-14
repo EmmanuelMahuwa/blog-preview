@@ -1,0 +1,58 @@
+body {
+      background-color: orange;
+      font-family: Arial, Helvetica, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+    }
+    .blog-date {
+      font-weight: bold;
+    }
+    .blog-heading {
+      color: black;
+      font-weight: bold;
+      font-size: 25px;
+      margin: 0px;
+    }
+    .home-background {
+      background-color: orange;
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+    }
+    .blog-section {
+      display: grid;
+      align-items: center;
+      background-color: rgb(253, 252, 252);
+      margin: 50px;
+      width: 380px auto;
+      height: auto;
+      padding: 10px;
+      border-radius: 20px;
+      outline: 1px solid black;
+      box-shadow: 15px 15px 10px black;
+      
+    }
+    .purpose {
+      background-color: orange;
+      width: 70px;
+      border-radius: 5px;
+      padding-left: 10px;
+      padding-bottom: 5px;
+      padding-right: 10px;
+      padding-top: 5px;
+      margin-bottom: 0px;
+    }
+    .blog-author {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        margin: 0px;
+
+    }
+    .blog-image {
+        width: 100%;
+        height: auto;
+        border-radius: 20px;
+    }

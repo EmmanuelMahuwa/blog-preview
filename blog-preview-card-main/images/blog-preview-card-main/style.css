@@ -1,0 +1,11 @@
+.home-background {
+    display: grid;
+    background-color: rgb(52, 250, 3);
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+.blog-section {
+    background-color: rgb(109, 87, 231);
+
+}
